@@ -583,6 +583,9 @@
     "EkkoG",
     "nczitzk"
   ],
+  "/apple/design": [
+    "jean-jacket"
+  ],
   "/apple/exchange_repair/:country?": [
     "metowolf",
     "HenryQW",
@@ -3642,8 +3645,9 @@
   "/hiring.cafe/jobs/:keywords": [
     "mintyfrankie"
   ],
-  "/hit/hitgs": [
-    "hlmu"
+  "/hit/hitgs/:id?": [
+    "hlmu",
+    "nczitzk"
   ],
   "/hit/jwc": [
     "lty96117"
@@ -6963,7 +6967,7 @@
   "/sicau/dky/:category?": [
     "nczitzk"
   ],
-  "/sicau/jiaowu/jxtz": [
+  "/sicau/jiaowu/jxtz/:detail?": [
     "hualiong"
   ],
   "/sicau/jk/:gid/:typeId/:sortType/:token": [
